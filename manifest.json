@@ -1,0 +1,8 @@
+{
+	"name": "Marathon",
+	"version": "1.0.0",
+	"minAppVersion": "1.6.1",
+	"author": "Spekulucius",
+	"authorUrl": "https://github.com/Spekulucius",
+	"modes": ["dark", "light"]
+}
