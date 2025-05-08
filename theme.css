@@ -200,7 +200,7 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
     font-weight: 500 !important;
     transition: all 1s !important;
     box-shadow: none !important;
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .theme-dark
@@ -213,7 +213,7 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
     font-weight: 500 !important;
     transition: all 1s !important;
     box-shadow: none !important;
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .workspace-tab-header {
@@ -230,7 +230,7 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
     margin: 0 2.5px 5px 2.5px;
     height:85%;
     transition: all 1s !important;
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .theme-dark
@@ -241,7 +241,7 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
     height:85%;
     transition: all 1s !important;
     background-color: rgb(54, 54, 54);
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 
@@ -345,11 +345,11 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
 }
 
 .setting-item-name {
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .vertical-tab-nav-item {
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 /*UI SLIDERS*/
@@ -467,14 +467,14 @@ button.mod-cta:hover, button:hover{
 .nav-folder-title-content {
     color:rgb(61, 61, 61);
     font-weight: 800;
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .theme-dark
 .nav-folder-title-content {
     color:rgb(193, 193, 193);
     font-weight: 600;
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 
@@ -692,7 +692,7 @@ table {
 /*HEADINGS - colors*/
 
 .inline-title {
-    font-family: menda !important;
+    font-family: menda, inter, verdana !important;
 }
 
 .HyperMD-header-1 {
@@ -703,7 +703,7 @@ table {
     padding-top: 0px !important;
     padding-left: 21px !important;
     box-shadow: var(--accent-color-light10);
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-1 {
@@ -717,7 +717,7 @@ table {
     border-left: 3px dashed var(--accent-color-light10);
     padding-top: 0px !important;
     padding-left: 21px !important;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-2 {
@@ -731,7 +731,7 @@ table {
     border-left: 3px dotted var(--accent-color-light10);
     padding-top: 0px !important;
     padding-left: 21px !important;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-3 {
@@ -741,17 +741,17 @@ table {
 .HyperMD-header-4 {
     color:var(--accent-color-light5);
     font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .HyperMD-header-5 {
     color:var(--accent-color-light4);
 	font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .HyperMD-header-6 {
     color:var(--accent-color-light3);
     font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 
 .markdown-rendered h1 {
@@ -762,7 +762,7 @@ table {
     border-left: 3px solid var(--accent-color-light10);
     padding-left: 21px;
     margin-left: -25px;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 
 .markdown-rendered h2 {
@@ -773,7 +773,7 @@ table {
     border-left: 3px dashed var(--accent-color-light10);
     padding-left: 21px;
     margin-left: -25px;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .markdown-rendered h3 {
     color:var(--accent-color-light8);
@@ -783,28 +783,28 @@ table {
     border-left: 3px dotted var(--accent-color-light10);
     padding-left: 21px;
     margin-left: -25px;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .markdown-rendered h4 {
     color:var(--accent-color-light5);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .markdown-rendered h5 {
     color:var(--accent-color-light4);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 .markdown-rendered h6 {
     color:var(--accent-color-light3);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda;
+    font-family: menda, inter, verdana;
 }
 /****************/
 
@@ -997,7 +997,7 @@ mjx-math {
 }
 
 .callout-title-inner {
-    font-family: cascadia code;
+    font-family: cascadia code, inter, verdana;
     padding: .5em;
     color: var(--accent-color-inverse);
 }
@@ -1121,23 +1121,3 @@ body {
 .kanban-plugin__item-title-wrapper {
     background: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
