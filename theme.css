@@ -106,7 +106,7 @@ svg * {
     --accent-color-bg2: white;
     --accent-color-bg2c: white;
     --accent-color-bg_d: #2e2e2e;
-    --accent-color-bg_dc: #252525);
+    --accent-color-bg_dc: #252525;
 
     --accent-color-inverse: hsl(var(--accent-h), var(--accent-s), calc(calc(var(--accent-l) - 49%)*-100));
     --accent-color-inverse2: hsl(var(--accent-h), var(--accent-s), calc(calc(var(--accent-l) - 67%)*-100));
@@ -692,7 +692,7 @@ table {
 /*HEADINGS - colors*/
 
 .inline-title {
-    font-family: menda, inter, verdana !important;
+    font-family: menda, Cascadia Code, inter, verdana !important;
 }
 
 .HyperMD-header-1 {
@@ -701,57 +701,57 @@ table {
 	margin-bottom: 0px !important;
     border-left: 3px solid var(--accent-color-light10);
     padding-top: 0px !important;
-    padding-left: 21px !important;
+    padding-left: 16px !important;
     box-shadow: var(--accent-color-light10);
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-1 {
-    margin-left: -25px !important;
+    margin-left: -20px !important;
 }
 
 .HyperMD-header-2 {
-    color:var(--accent-color-light9);
+    color:var(--accent-color-light10);
     font-size: 1.5em;
     margin-bottom: 0px !important;
     border-left: 3px dashed var(--accent-color-light10);
     padding-top: 0px !important;
-    padding-left: 21px !important;
-    font-family: menda, inter, verdana;
+    padding-left: 16px !important;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-2 {
-    margin-left: -25px !important;
+    margin-left: -20px !important;
 }
 
 .HyperMD-header-3 {
-    color:var(--accent-color-light8);
+    color:var(--accent-color-light10);
     font-size: 1.5em;
     margin-bottom: 0px !important;
     border-left: 3px dotted var(--accent-color-light10);
     padding-top: 0px !important;
-    padding-left: 21px !important;
-    font-family: menda, inter, verdana;
+    padding-left: 16px !important;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 
 .markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-3 {
-    margin-left: -25px !important;
+    margin-left: -20px !important;
 }
 
 .HyperMD-header-4 {
-    color:var(--accent-color-light5);
+    color:var(--accent-color-light8);
     font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .HyperMD-header-5 {
-    color:var(--accent-color-light4);
+    color:var(--accent-color-light7);
 	font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .HyperMD-header-6 {
-    color:var(--accent-color-light3);
+    color:var(--accent-color-light6);
     font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 
 .markdown-rendered h1 {
@@ -760,51 +760,51 @@ table {
 	margin-bottom: 0px !important;
     font-size: 1.5em;
     border-left: 3px solid var(--accent-color-light10);
-    padding-left: 21px;
-    margin-left: -25px;
-    font-family: menda, inter, verdana;
+    padding-left: 16px;
+    margin-left: -20px;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 
 .markdown-rendered h2 {
-    color:var(--accent-color-light9);
+    color:var(--accent-color-light10);
 	margin-top: 10px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
     border-left: 3px dashed var(--accent-color-light10);
-    padding-left: 21px;
-    margin-left: -25px;
-    font-family: menda, inter, verdana;
+    padding-left: 16px;
+    margin-left: -20px;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .markdown-rendered h3 {
-    color:var(--accent-color-light8);
+    color:var(--accent-color-light10);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
     border-left: 3px dotted var(--accent-color-light10);
-    padding-left: 21px;
-    margin-left: -25px;
-    font-family: menda, inter, verdana;
+    padding-left: 16px;
+    margin-left: -20px;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .markdown-rendered h4 {
-    color:var(--accent-color-light5);
+    color:var(--accent-color-light8);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .markdown-rendered h5 {
-    color:var(--accent-color-light4);
+    color:var(--accent-color-light7);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 .markdown-rendered h6 {
-    color:var(--accent-color-light3);
+    color:var(--accent-color-light6);
 	margin-top: 5px !important;
 	margin-bottom: 0px !important;
     font-size: 1.5em;
-    font-family: menda, inter, verdana;
+    font-family: menda, Cascadia Code, inter, verdana;
 }
 /****************/
 
@@ -882,9 +882,10 @@ li {
 hr {
     margin-top: 1em !important;
     margin-bottom: 1em !important;
+    border: .2em solid !important;
+    border-radius: 50px !important;
+    border-bottom: 0px transparent !important;
     border-color: var(--accent-color-light10) !important;
-    dborder-radius: 50px !important;
-    border-style: dotted !important;
 }
 /****************/
 
