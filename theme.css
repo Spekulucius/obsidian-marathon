@@ -1207,3 +1207,52 @@ body {
 .kanban-plugin__item-title-wrapper {
     background: white;
 }
+
+
+
+/* ======================================== ADRENALINE CALLOUTS - draft ===================================*/
+/*CALLOUTS***********************************************************************************************
+.callout {
+    padding: .7em;
+    padding-bottom: .2em !important; 
+    padding-top: .7em;
+    margin-top: .3em !important;
+    margin-bottom: .5em !important;
+    background-color: var(--accent-color-light05) !important;
+    border: solid 1px var(--accent-color-light10) !important;
+}
+
+
+.callout-title-inner {
+    margin-bottom: .5em;
+}
+.callout-content blockquote {
+    margin-bottom: .2em !important;
+    margin-top: .2em !important;
+}
+
+.callout-content ol {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+
+.callout-content {
+    overflow: visible;
+}
+
+.theme-dark .callout-title {
+    color: white;
+    font-size: 1.1em;
+}
+
+.theme-light .callout-title {
+    color: black;
+    font-size: 1.1em;
+}
+
+
+.callout-icon:not(.el-div .callout[data-callout="c"] .callout-icon) {
+    display: none;
+}
+*/
